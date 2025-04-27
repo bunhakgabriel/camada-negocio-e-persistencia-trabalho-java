@@ -1,0 +1,5 @@
+com\adricosmeticos\persistencia\ConnectionFactory.class
+com\adricosmeticos\modelo\Produto.class
+com\adricosmeticos\negocio\Produto.class
+com\adricosmeticos\persistencia\Produto.class
+com\mycompany\adricosmeticos\AdriCosmeticos.class
