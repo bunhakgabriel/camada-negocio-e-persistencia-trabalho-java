@@ -155,8 +155,8 @@ public class Produto {
 
 class ConnectionFactory {
 
-    private static final String URL = "jdbc:postgresql://aws-0-sa-east-1.pooler.supabase.com:6543/postgres";
-    private static final String USUARIO = "postgres.qkzcqadlzgjfbxhosshi";
+    private static final String URL = "jdbc:postgresql://localhost:5432/postgres";
+    private static final String USUARIO = "postgres";
     private static final String SENHA = "74115987";
 
     static {
